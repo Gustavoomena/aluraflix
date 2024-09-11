@@ -5,3 +5,15 @@ body{
 section{
 background: rgb(255 255 255);
 }
+
+.chamada-texto{
+    margin-right: 5%;
+}
+img{
+    height: 200px;
+}
+.categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+  }
